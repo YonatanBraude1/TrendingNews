@@ -1,0 +1,2 @@
+# TrendingNews
+Customizable News Aggregator
